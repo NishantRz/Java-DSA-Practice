@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//leetcode question number 34
 public class Find_firstandLast_pos_element {
     public static void main(String[] args) {
       int[]  arr = {5,7,7,8,8,10};
